@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlashCard</string>
+    <string name="toolbar_main_title">Home</string>
+
+    <string name="toolbar_main_add_cardset">Add Cardset</string>
+    <string name="toolbar_add_card">Add Card</string>
+    <string name="toolbar_delete_card">Delete Card</string>
+    <string name="toolbar_card_set_overview_delete_all">Delete All</string>
+    <string name="toolbar_save">Save</string>
+    <string name="toolbar_clear">Clear</string>
+    <string name="validation_entry_required">Entry Required</string>
+
+    <string name="lower_case_cards">card(s)</string>
+    <string name="upper_case_add_card">ADD CARD</string>
+    <string name="upper_case_view_cards">VIEW CARDS</string>
+    <string name="upper_case_delete_all_cards">DELETE ALL CARDS</string>
+
+    <string name="alert_dialog_delete_cardset_title">DELETE CARDSET</string>
+    <string name="alert_dialog_delete_card_title">DELETE CARD</string>
+    <string name="alert_dialog_delete_all_cards_title">DELETE ALL CARDS</string>
+    <string name="alert_dialog_delete_cardset_message">Permanently delete this cardset? This action is irreversible</string>
+    <string name="alert_dialog_delete_card_message">Permanently delete this card? This action is irreversible</string>
+    <string name="alert_dialog_delete_all_cards_message">Permanently delete all cards in this set? This action is irreversible</string>
+    <string name="alert_dialog_confirm">Confirm</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+
+    <string name="toast_no_cards">No cards to display.</string>
+</resources>
